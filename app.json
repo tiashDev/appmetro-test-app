@@ -1,4 +1,5 @@
 {
   "name": "Test App",
-  "desc": "A test app that you will be able to install from AppMetro."
+  "desc": "A test app that you will be able to install from AppMetro.",
+  "app": "app.bat"
 }
